@@ -1,6 +1,6 @@
 # North-or-East
  Created an agant which plays a zero-sum game against a human player
-
+ 
 - The game is played on an NxN grid. N is a parameter chosen by the user. 
 - The game board is initialized as shown in the image below. The (east and north) borders are initialized with random points [-2,-1,0,1,2].
 
